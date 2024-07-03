@@ -2,8 +2,6 @@
 #### I am an expert, architect, technical writer, and a programmer at heart.
 ![I am an expert, architect, technical writer, and a programmer at heart.](images/github-header-image.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: REACT / JS / TS / HTML / CSS / C# / C++ / GO / and the list goes on..
 
 - 🔭 I’m currently working on this page. 
