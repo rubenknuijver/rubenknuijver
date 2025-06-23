@@ -70,7 +70,7 @@ Here are some of the technologies I work with regularly:
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenknuijver&hide_title=true&layout=compact&card_width=320&langs_count=10&hide_border=true" alt="Top Langs" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rubenknuijver&show_icons=true&hide_border=true&card_width=320" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=rubenknuijver" alt="GitHub streak stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-delta-dun-21.vercel.app?user=rubenknuijver&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ## 📫 Let's Connect
