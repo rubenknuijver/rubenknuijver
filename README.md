@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Ruben
 
-I'm a **Senior Solution Architect**, **Technical Writer**, and **Programmer** with a passion for building innovative, robust, and scalable systems, with a core philosophy centered on building **cloud-agnostic, multi-cloud systems**. I specialize in designing for flexibility and resilience to avoid vendor lock-in, and I enjoy demystifying my work through clear technical writing.
+I'm a hands-on **Senior Principal Architect**, **Technical Writer**, and **Programmer** with a passion for building innovative, robust, and scalable systems, with a core philosophy centered on building **cloud-agnostic, multi-cloud systems**. I specialize in designing for flexibility and resilience to avoid vendor lock-in, and I enjoy demystifying my work through clear technical writing.
 
 <p align="center">
   <img src="images/github-header-image.png" alt="Ruben's GitHub Profile Header"/>
